@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="text">He is very Poor!!</string>
+    <string name="description">They Say DIAMOND is our GIRL\'s Best Friend But COAL Keeps US Warm in Winter</string>
+    <string name="coalImage">Image of a block sized coal</string>
 </resources>
